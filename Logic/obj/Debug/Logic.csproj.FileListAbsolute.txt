@@ -1,0 +1,8 @@
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Logic\bin\Debug\Logic.dll.config
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Logic\bin\Debug\Logic.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Logic\bin\Debug\Logic.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Logic\bin\Debug\Intermediary.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Logic\bin\Debug\Intermediary.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Logic\obj\Debug\Logic.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Logic\obj\Debug\Logic.pdb

@@ -1,0 +1,4 @@
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Intermediary\bin\Debug\Intermediary.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Intermediary\bin\Debug\Intermediary.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Intermediary\obj\Debug\Intermediary.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Intermediary\obj\Debug\Intermediary.pdb

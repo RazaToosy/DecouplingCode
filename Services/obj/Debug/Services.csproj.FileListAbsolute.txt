@@ -1,0 +1,9 @@
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\bin\Debug\Services.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\bin\Debug\Services.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\bin\Debug\Intermediary.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\bin\Debug\Intermediary.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\obj\Debug\Services.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\obj\Debug\Services.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\bin\Debug\Logic.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\Services\bin\Debug\Logic.pdb

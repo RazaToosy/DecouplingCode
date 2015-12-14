@@ -1,0 +1,12 @@
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\DecouplingCode.exe.config
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\DecouplingCode.exe
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\DecouplingCode.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\Intermediary.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\Logic.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\Services.dll
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\Intermediary.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\Logic.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\bin\Debug\Services.pdb
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\obj\Debug\Console.csprojResolveAssemblyReference.cache
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\obj\Debug\DecouplingCode.exe
+C:\MyDropBox\Dropbox\dev\Blogs\DecouplingCode\DecouplingCode\obj\Debug\DecouplingCode.pdb
